@@ -1,9 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <PackageId>TheArjunSharma.UICore</PackageId>
+	  <Version>1.0.3</Version>
+	  <Author>Arjun Sharma</Author>
+	  <Product>UICore</Product>
+	  <Description>Core Html generation uisng some component bases UI</Description>
+	  <PackageTags>Text; Input; TextInput;</PackageTags>
+	  <RepositoryUrl>https://github.com/TheArjunSharma-ai/UICore</RepositoryUrl>
   </PropertyGroup>
 
 

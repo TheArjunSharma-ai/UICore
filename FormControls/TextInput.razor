@@ -1,6 +1,16 @@
-﻿<input @bind="Value" placeholder="@Placeholder" class="form-control" type="text" />
+﻿<input @bind="Value"
+       placeholder="@Placeholder"
+       class="@ClassName"
+       type="text"
+       @attributes="AdditionalAttributes" />
 
 @code {
     [Parameter] public string Value { get; set; }
+    [Parameter] public EventCallback<string> ValueChanged { get; set; }
+
     [Parameter] public string Placeholder { get; set; } = "Enter text...";
+    [Parameter] public string ClassName { get; set; } = "form-control";
+
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object> AdditionalAttributes { get; set; }
 }

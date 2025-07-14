@@ -5,10 +5,10 @@
   },
   "projects": {
     "D:\\Dotnet\\UICore\\UICore.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.3",
       "restore": {
         "projectUniqueName": "D:\\Dotnet\\UICore\\UICore.csproj",
-        "projectName": "UICore",
+        "projectName": "TheArjunSharma.UICore",
         "projectPath": "D:\\Dotnet\\UICore\\UICore.csproj",
         "packagesPath": "C:\\Users\\as506\\.nuget\\packages\\",
         "outputPath": "D:\\Dotnet\\UICore\\obj\\",
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",

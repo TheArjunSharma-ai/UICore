@@ -1,21 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "LuvcW1aec04=",
-  "success": true,
+  "dgSpecHash": "o/LMj/HD7Ys=",
+  "success": false,
   "projectFilePath": "D:\\Dotnet\\UICore\\UICore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.6\\microsoft.aspnetcore.authorization.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.6\\microsoft.aspnetcore.components.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.6\\microsoft.aspnetcore.components.analyzers.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\9.0.6\\microsoft.aspnetcore.components.forms.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.aspnetcore.components.web\\9.0.6\\microsoft.aspnetcore.components.web.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.aspnetcore.metadata\\9.0.6\\microsoft.aspnetcore.metadata.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.6\\microsoft.extensions.logging.abstractions.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.extensions.options\\9.0.6\\microsoft.extensions.options.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.6\\microsoft.extensions.primitives.9.0.6.nupkg.sha512",
-    "C:\\Users\\as506\\.nuget\\packages\\microsoft.jsinterop\\9.0.6\\microsoft.jsinterop.9.0.6.nupkg.sha512"
+    "C:\\Users\\as506\\.nuget\\packages\\microsoft.aspnetcore.components.web\\9.0.6\\microsoft.aspnetcore.components.web.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Components.Web 9.0.6 is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Package Microsoft.AspNetCore.Components.Web 9.0.6 supports: net9.0 (.NETCoreApp,Version=v9.0)",
+      "projectPath": "D:\\Dotnet\\UICore\\UICore.csproj",
+      "filePath": "D:\\Dotnet\\UICore\\UICore.csproj",
+      "libraryId": "Microsoft.AspNetCore.Components.Web",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
