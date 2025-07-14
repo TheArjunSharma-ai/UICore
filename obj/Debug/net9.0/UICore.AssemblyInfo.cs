@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UICore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41bc72c993c5ca8a88b10c599067f8bc57dc4b9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UICore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UICore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
