@@ -1,3 +1,5 @@
+using Microsoft.JSInterop;
+
 namespace UICore;
 
 // This class provides an example of how JavaScript functionality can be wrapped

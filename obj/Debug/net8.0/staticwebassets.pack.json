@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\WX\\Me\\UICore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TheArjunSharma.UICore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TheArjunSharma.UICore.o3746kumlc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\WX\\Me\\UICore\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\WX\\Me\\UICore\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TheArjunSharma.UICore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TheArjunSharma.UICore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TheArjunSharma.UICore.props",
+      "PackagePath": "build\\TheArjunSharma.UICore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TheArjunSharma.UICore.props",
+      "PackagePath": "buildMultiTargeting\\TheArjunSharma.UICore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TheArjunSharma.UICore.props",
+      "PackagePath": "buildTransitive\\TheArjunSharma.UICore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

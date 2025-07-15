@@ -9,25 +9,277 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = UICore
 build_property.RootNamespace = UICore
-build_property.ProjectDir = D:\Dotnet\UICore\
+build_property.ProjectDir = C:\WX\Me\UICore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Dotnet\UICore
+build_property.MSBuildProjectDirectory = C:\WX\Me\UICore
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Dotnet/UICore/FormControls/TextInput.razor]
-build_metadata.AdditionalFiles.TargetPath = Rm9ybUNvbnRyb2xzXFRleHRJbnB1dC5yYXpvcg==
+[C:/WX/Me/UICore/Costom/Autocomplete.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXEF1dG9jb21wbGV0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dotnet/UICore/_Imports.razor]
+[C:/WX/Me/UICore/Costom/Charts.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXENoYXJ0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/ControlType.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXENvbnRyb2xUeXBlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/DateRangePicker.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXERhdGVSYW5nZVBpY2tlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/DraganDrop.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXERyYWdhbkRyb3AucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/Map.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXE1hcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/RichTextEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXFJpY2hUZXh0RWRpdG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/Stepper.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXFN0ZXBwZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/TagsInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXFRhZ3NJbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Costom/Treeview.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29zdG9tXFRyZWV2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Accordion.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxBY2NvcmRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Audio.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxBdWRpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Canvas.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxDYW52YXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Carousel.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxDYXJvdXNlbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Dialog.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/IFrame.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxJRnJhbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Image.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxJbWFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Label.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxMYWJlbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/List.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Loader.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxMb2FkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Meter.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxNZXRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/ProgressBar.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxQcm9ncmVzc0Jhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Spinner.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxTcGlubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Table.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxUYWJsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Tabs.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxUYWJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Tooltip.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxUb29sdGlwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Display/Video.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlzcGxheVxWaWRlby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/Button.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/CheckboxInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxDaGVja2JveElucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/ColorInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxDb2xvcklucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/DateInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxEYXRlSW5wdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/DateTimeInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxEYXRlVGltZUlucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/EmailInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxFbWFpbElucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/FileInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxGaWxlSW5wdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/HiddenInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxIaWRkZW5JbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/NumberInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxOdW1iZXJJbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/PasswordInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxQYXNzd29yZElucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/RadioGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxSYWRpb0dyb3VwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/RadioInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxSYWRpb0lucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/RangeInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxSYW5nZUlucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/ResetButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxSZXNldEJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/SearchInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxTZWFyY2hJbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/SelectInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxTZWxlY3RJbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/SubmitButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxTdWJtaXRCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/TextArea.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxUZXh0QXJlYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/TextInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxUZXh0SW5wdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/TimeInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxUaW1lSW5wdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Form/ToggleSwitch.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9ybVxUb2dnbGVTd2l0Y2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Navigation/Anchor.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2aWdhdGlvblxBbmNob3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Navigation/Breadcrumb.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2aWdhdGlvblxCcmVhZGNydW1iLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Navigation/ControlType.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2aWdhdGlvblxDb250cm9sVHlwZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Navigation/Link.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2aWdhdGlvblxMaW5rLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Navigation/NavigationBar.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2aWdhdGlvblxOYXZpZ2F0aW9uQmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Navigation/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2aWdhdGlvblxQYWdpbmF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/Navigation/Sidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2aWdhdGlvblxTaWRlYmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/AutoComplete.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcQXV0b0NvbXBsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/FormGroup.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcRm9ybUdyb3VwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/FormLabel.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcRm9ybUxhYmVsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/InputMask.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcSW5wdXRNYXNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/InputWrapper.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcSW5wdXRXcmFwcGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/MultiSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcTXVsdGlTZWxlY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/RichTextEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcUmljaFRleHRFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/UIPolishing/ValidationMessage.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlQb2xpc2hpbmdcVmFsaWRhdGlvbk1lc3NhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WX/Me/UICore/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dotnet/UICore/Component1.razor]
+[C:/WX/Me/UICore/Component1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-813kx1em0q

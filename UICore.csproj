@@ -19,7 +19,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="9.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Display\" />
+    <Folder Include="Navigation\" />
+    <Folder Include="Costom\" />
+    <Folder Include="UIPolishing\" />
   </ItemGroup>
 
 </Project>

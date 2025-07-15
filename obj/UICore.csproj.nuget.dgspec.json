@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet\\UICore\\UICore.csproj": {}
+    "C:\\WX\\Me\\UICore\\UICore.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet\\UICore\\UICore.csproj": {
+    "C:\\WX\\Me\\UICore\\UICore.csproj": {
       "version": "1.0.3",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet\\UICore\\UICore.csproj",
+        "projectUniqueName": "C:\\WX\\Me\\UICore\\UICore.csproj",
         "projectName": "TheArjunSharma.UICore",
-        "projectPath": "D:\\Dotnet\\UICore\\UICore.csproj",
-        "packagesPath": "C:\\Users\\as506\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet\\UICore\\obj\\",
+        "projectPath": "C:\\WX\\Me\\UICore\\UICore.csproj",
+        "packagesPath": "C:\\Users\\Arjun.Sharma\\.nuget\\packages\\",
+        "outputPath": "C:\\WX\\Me\\UICore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\as506\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arjun.Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,7 +53,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[9.0.6, )"
+              "version": "[8.0.6, )"
             }
           },
           "imports": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

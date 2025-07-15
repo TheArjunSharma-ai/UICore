@@ -1,6 +1,5 @@
-﻿<input @bind="Value"
-       placeholder="@Placeholder"
-       class="@ClassName"
+﻿<input value="@Value"
+       @oninput="OnInput"
        type="text"
        @attributes="AdditionalAttributes" />
 
@@ -8,9 +7,13 @@
     [Parameter] public string Value { get; set; }
     [Parameter] public EventCallback<string> ValueChanged { get; set; }
 
-    [Parameter] public string Placeholder { get; set; } = "Enter text...";
-    [Parameter] public string ClassName { get; set; } = "form-control";
-
     [Parameter(CaptureUnmatchedValues = true)]
     public Dictionary<string, object> AdditionalAttributes { get; set; }
+
+    private async Task OnInput(ChangeEventArgs e)
+    {
+        var newValue = e.Value?.ToString();
+        Value = newValue;
+        await ValueChanged.InvokeAsync(newValue);
+    }
 }

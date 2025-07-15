@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TheArjunSharma.UICore.props" />
+</Project>
